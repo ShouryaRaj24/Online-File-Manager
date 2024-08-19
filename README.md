@@ -19,7 +19,7 @@ This Spring Boot application allows users to upload files and download them usin
   
   **OR**
 
-  In your browser: [http://localhost:8080/download?fileName=example.pdf]
+  In your browser: [http://localhost:8080/download?fileName=example.pdf](http://localhost:8080/download?fileName=example.pdf)
 
 ### 3. **Download Files Faster**
 - **GET** `http://localhost:8080/download-faster`
@@ -29,14 +29,15 @@ This Spring Boot application allows users to upload files and download them usin
   
   **OR**
 
-  In your browser: [http://localhost:8080/download-faster?fileName=example.pdf]
+  In your browser: [http://localhost:8080/download-faster?fileName=example.pdf](http://localhost:8080/download-faster?fileName=example.pdf)
 
 ## Frontend Integration
 
 ### 1. **File Uploader**
-To see the file uploader interface, open your browser and go to: [http://localhost:8080/uploader]
+To see the file uploader interface, open your browser and go to: [http://localhost:8080/uploader](http://localhost:8080/uploader)
+
 ### 2. **List Files**
-To view and download files from the directory, go to: [http://localhost:8080/list-files]
+To view and download files from the directory, go to: [http://localhost:8080/list-files](http://localhost:8080/list-files)
 
 ## ChatGPT Prompts for HTML Templates
 
@@ -57,6 +58,8 @@ Generate a Thymeleaf template that lists all files within a directory. When a ro
 
 ### **To see with the Frontend**
 **In Browser type:**
-http://localhost:8080/list-files <br>
-http://localhost:8080/uploader
+
+- [http://localhost:8080/list-files](http://localhost:8080/list-files)  
+- [http://localhost:8080/uploader](http://localhost:8080/uploader)
+
 
