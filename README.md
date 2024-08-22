@@ -8,7 +8,7 @@ This Spring Boot application allows users to upload files and download them usin
 - **POST** `http://localhost:8080/upload-file`
 - **Request Body:** 
   - Type: `form-data`
-  - Key: `files`
+  - Key: `file`
   - Value: [Select your file(s) to upload]
 
 ### 2. **Download Files**
